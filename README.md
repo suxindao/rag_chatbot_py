@@ -13,5 +13,5 @@
 
 1. **克隆项目**
 ```bash
-git clone <repository-url>
-cd rag-chatbot
+git clone git@github.com:suxindao/rag_chatbot_py.git
+cd rag_chatbot_py
